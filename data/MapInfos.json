@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":532,"scrollY":305}
+{"id":1,"expanded":true,"name":"Waterfall Street","order":2,"parentId":0,"scrollX":532,"scrollY":319},
+{"id":2,"expanded":true,"name":"Harold's Home","order":1,"parentId":0,"scrollX":532,"scrollY":367},
+{"id":3,"expanded":false,"name":"Waterfall Street","order":3,"parentId":1,"scrollX":532,"scrollY":319},
+{"id":4,"expanded":false,"name":"Police Station","order":4,"parentId":0,"scrollX":532,"scrollY":607}
 ]
